@@ -1227,3 +1227,10 @@ Entries:
   id: 6631
   time: '2026-02-02T23:12:43.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/426
+- author: Eillyrea
+  changes:
+    - type: Tweak
+      message: Audio of the biomass reclaimer
+  id: 6632
+  time: '2026-02-02T23:13:20.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/427
