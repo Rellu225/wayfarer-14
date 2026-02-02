@@ -1211,3 +1211,12 @@ Entries:
   id: 6629
   time: '2026-02-02T05:23:48.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/419
+- author: VVersengt
+  changes:
+    - type: Tweak
+      message: IPCs can now use the Syndicate borg laugh ("synlaughs" or emote wheel)
+    - type: Fix
+      message: Various emote issues with Vulps, IPCs and Resomi
+  id: 6630
+  time: '2026-02-02T23:11:58.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/425
