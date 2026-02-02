@@ -1243,3 +1243,12 @@ Entries:
   id: 6633
   time: '2026-02-02T23:14:11.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/428
+- author: ShepardToTheStars
+  changes:
+    - type: Fix
+      message: >-
+        The e-sword and double-bladed e-sword should no longer hum after its
+        toggled off.
+  id: 6634
+  time: '2026-02-02T23:15:16.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/430
