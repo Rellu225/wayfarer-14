@@ -1346,3 +1346,12 @@ Entries:
   id: 6646
   time: '2026-02-08T18:21:10.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/444
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: >-
+        Trimmed and stitched two of the announcement audios in order to avoid
+        mentioning NT.
+  id: 6647
+  time: '2026-02-08T18:22:02.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/446
