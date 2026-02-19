@@ -1564,3 +1564,13 @@ Entries:
   id: 6672
   time: '2026-02-18T23:59:03.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/475
+- author: Eillyrea
+  changes:
+    - type: Fix
+      message: >-
+        Roles should be properly behind whitelists again (Please open a ticket
+        if you have access to jobs you haven't whitelisted for, so we can
+        bugtest/look into further)
+  id: 6673
+  time: '2026-02-19T00:00:00.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/490
