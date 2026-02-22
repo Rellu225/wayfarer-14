@@ -1581,3 +1581,10 @@ Entries:
   id: 6674
   time: '2026-02-22T13:19:43.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/510
+- author: Eillyrea
+  changes:
+    - type: Tweak
+      message: Cigarrete Butt ship is now called Beater
+  id: 6675
+  time: '2026-02-22T13:55:49.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/511
