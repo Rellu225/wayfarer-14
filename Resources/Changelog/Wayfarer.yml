@@ -1671,3 +1671,10 @@ Entries:
   id: 6686
   time: '2026-02-26T08:06:13.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/521
+- author: VVersengt
+  changes:
+    - type: Tweak
+      message: Changed default Borg laws.
+  id: 6687
+  time: '2026-03-05T19:12:30.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/529
