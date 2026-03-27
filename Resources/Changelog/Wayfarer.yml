@@ -1737,3 +1737,10 @@ Entries:
   id: 6694
   time: '2026-03-27T10:40:36.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/534
+- author: Luweth
+  changes:
+    - type: Add
+      message: bar flask & MRE flask in loadouts.
+  id: 6695
+  time: '2026-03-27T10:42:00.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/545
