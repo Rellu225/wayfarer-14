@@ -1762,3 +1762,10 @@ Entries:
   id: 6697
   time: '2026-03-30T04:32:11.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/533
+- author: Luweth
+  changes:
+    - type: Add
+      message: AussieShepTail markings
+  id: 6698
+  time: '2026-03-30T04:32:30.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/547
