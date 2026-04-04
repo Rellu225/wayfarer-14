@@ -1816,3 +1816,12 @@ Entries:
   id: 6702
   time: '2026-04-04T17:47:09.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/540
+- author: VVersengt
+  changes:
+    - type: Add
+      message: Added a fully fleshed out uplink catalogue for Outlaws
+    - type: Tweak
+      message: Buffed breaching hammer
+  id: 6703
+  time: '2026-04-04T20:06:16.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/541
