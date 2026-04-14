@@ -1880,3 +1880,10 @@ Entries:
   id: 6710
   time: '2026-04-13T14:48:19.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/575
+- author: drraccoony
+  changes:
+    - type: Fix
+      message: Fixed character hot-swapping bank account associating
+  id: 6711
+  time: '2026-04-14T03:55:55.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/571
