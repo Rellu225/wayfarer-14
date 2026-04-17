@@ -1940,3 +1940,12 @@ Entries:
   id: 6718
   time: '2026-04-17T19:51:14.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/582
+- author: VVersengt
+  changes:
+    - type: Add
+      message: >-
+        Options to toggle the new visual smoothing effect in shuttles and an
+        option to turn off the announcement voiceovers.
+  id: 6719
+  time: '2026-04-17T19:51:45.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/591
