@@ -6182,3 +6182,129 @@ Entries:
   id: 7205
   time: '2026-08-22T17:50:30.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1472
+- author: Cat-With-A-Computer
+  changes:
+    - type: Tweak
+      message: CGP IAA has budget access now, and a budget computer in their room.
+  id: 7206
+  time: '2026-08-23T17:03:23.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1451
+- author: Goodfaun
+  changes:
+    - type: Tweak
+      message: Cargotokens, Telecrystals, Zekke credit, Data chit can fit in wallet now
+  id: 7207
+  time: '2026-08-23T17:29:38.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1463
+- author: cryowyrm
+  changes:
+    - type: Add
+      message: added dense and sparse bluespace walls for mapdev and admin use.
+  id: 7208
+  time: '2026-08-24T00:45:49.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1466
+- author: Khaomi
+  changes:
+    - type: Add
+      message: Added Night Vision
+  id: 7209
+  time: '2026-08-24T02:23:16.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1470
+- author: lucentlavender
+  changes:
+    - type: Add
+      message: Mini Mayla
+  id: 7210
+  time: '2026-08-24T03:06:13.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1474
+- author: RoY7x
+  changes:
+    - type: Fix
+      message: Tag.yml missing WhitelistWallet from the recent Wallet Update.
+  id: 7211
+  time: '2026-08-25T03:03:16.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1503
+- author: Khaomi
+  changes:
+    - type: Tweak
+      message: Changed Shadekin to have NightVision
+  id: 7212
+  time: '2026-08-30T14:59:58.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1471
+- author: Cat-With-A-Computer
+  changes:
+    - type: Add
+      message: Outlaws can now get mail.
+    - type: Tweak
+      message: UIV's and Hulks now happen ~3x less frequently
+    - type: Tweak
+      message: Coldlight UIV's are 1/4th as common as the other UIV's
+    - type: Remove
+      message: Vaults no longer happen naturally
+  id: 7213
+  time: '2026-08-30T15:28:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1507
+- author: Rellu225
+  changes:
+    - type: Tweak
+      message: Morgue is now deconstructible!
+  id: 7214
+  time: '2026-08-30T15:44:12.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1499
+- author: cyanfoot
+  changes:
+    - type: Tweak
+      message: IPCs can now vore/digest, and be vored/digested.
+  id: 7215
+  time: '2026-08-30T15:54:39.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1505
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: One new lobby art
+  id: 7216
+  time: '2026-08-30T16:10:53.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1510
+- author: cyanfoot
+  changes:
+    - type: Add
+      message: >-
+        Ported Angobitters, and drinks made with it such as an Old Fashioned,
+        from DeltaV
+    - type: Tweak
+      message: Changed the sprites of some existing drinks, such as moonshine
+  id: 7217
+  time: '2026-08-30T18:38:18.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1506
+- author: cyanfoot
+  changes:
+    - type: Add
+      message: 'Borg QoL improvements: Radio keys, and stripping people'
+  id: 7218
+  time: '2026-08-31T01:42:15.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1515
+- author: gaywolfgirl6
+  changes:
+    - type: Tweak
+      message: Maintained Frontier ships, adjusted their prices.
+  id: 7219
+  time: '2026-08-31T02:35:48.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1464
+- author: RoY7x
+  changes:
+    - type: Add
+      message: >-
+        The ability to now manually set yourself as SSD for when you need to
+        AFK!
+  id: 7220
+  time: '2026-08-31T03:09:10.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1508
+- author: cyanfoot
+  changes:
+    - type: Tweak
+      message: >-
+        Changed some parts of Calypso's Restaurant, Medbay, and Construction
+        Site.
+  id: 7221
+  time: '2026-08-31T03:19:44.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1514
