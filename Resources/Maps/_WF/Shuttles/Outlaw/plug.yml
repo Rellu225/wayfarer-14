@@ -4,8 +4,8 @@ meta:
   engineVersion: 267.3.0
   forkId: ""
   forkVersion: ""
-  time: 09/02/2026 08:44:12
-  entityCount: 1178
+  time: 09/07/2026 07:48:59
+  entityCount: 1180
 maps: []
 grids:
 - 1
@@ -5272,6 +5272,9 @@ entities:
     - type: Transform
       pos: 2.5,-3.5
       parent: 1
+    - type: GasMixer
+      inletTwoConcentration: 0.78
+      inletOneConcentration: 0.22
     - type: AtmosPipeColor
       color: '#0055CCFF'
 - proto: GasPassiveGate
@@ -8043,16 +8046,16 @@ entities:
   - uid: 900
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 6.5,-9.5
+      rot: -1.5707963267948966 rad
+      pos: 6.5,-10.5
       parent: 1
     - type: Fixtures
       fixtures: {}
   - uid: 901
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 6.5,-10.5
+      rot: -1.5707963267948966 rad
+      pos: 6.5,-9.5
       parent: 1
     - type: Fixtures
       fixtures: {}
@@ -8476,6 +8479,14 @@ entities:
     - type: Transform
       pos: 2.5,-0.5
       parent: 1
+- proto: SodaDispenser
+  entities:
+  - uid: 1179
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: -3.5,-10.5
+      parent: 1
 - proto: SpawnPointLatejoin
   entities:
   - uid: 938
@@ -8566,6 +8577,11 @@ entities:
     components:
     - type: Transform
       pos: -0.5,-8.5
+      parent: 1
+  - uid: 1180
+    components:
+    - type: Transform
+      pos: -3.5,-10.5
       parent: 1
 - proto: TableCounterMetal
   entities:
